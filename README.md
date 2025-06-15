@@ -24,15 +24,15 @@ Sometimes I want to use this charming pixelated font from Minecraft, and creatin
 
 **Love Minecraft Forever**
 
-![Overview](ImagesUsedByReadme/Fontforge screenshot.png)
+![Image](https://github.com/MegaRange/MineLike/blob/4513787811fee009383ee4f252a147d4d053b1f4/ImagesUsedByReadme/Fontforge%20screenshot.png)
 
 This font is based on the typeface from Minecraft 1.20. All characters were manually drawn using [FontForge](https://fontforge.org/en-US/) without any other tools. Feel free to use it with confidence.
 
 > 这个字体基于Minecraft 1.20里的字型，里面的所有文字全部是我使用[FontForge](https://fontforge.org/en-US/)画出来的，没有使用其他工具，请放心使用。
 
-I've deliberately calibrated the font size for compatibility with other fonts, such as the [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font).
+![Red Sofa by Lurk](https://github.com/MegaRange/MineLike/blob/4513787811fee009383ee4f252a147d4d053b1f4/ImagesUsedByReadme/Red%20Sofa%20by%20Lurk.png)
 
-![Red Sofa by Lurk](ImagesUsedByReadme/Red Sofa by Lurk.png)
+I've deliberately calibrated the font size for compatibility with other fonts, such as the [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font).
 
 > 我刻意安排了字体大小，使它能配合别的字体使用，比如配合[方舟像素字体](https://github.com/TakWolf/ark-pixel-font)使用。
 
@@ -40,7 +40,7 @@ I've deliberately calibrated the font size for compatibility with other fonts, s
 
 >（图片里用的还是那个缝合版）
 
-![Use with Ark](ImagesUsedByReadme/Use with Ark Pixel Font.png)
+![Use it with Ark](https://github.com/MegaRange/MineLike/blob/4513787811fee009383ee4f252a147d4d053b1f4/ImagesUsedByReadme/Use%20with%20Ark%20Pixel%20Font.png)
 
 ---
 
