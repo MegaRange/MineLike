@@ -8,7 +8,13 @@ A fan-made font based on Minecraft typeface
 
 ---
 
-[TOC]
+## 目录 / Table of Contents
+
+* [概述 / Overview](概述--Overview)
+* [使用本字体 / Font usage](使用本字体--Font-usage)
+* [修改本字体 / Modifying this font](修改本字体--Modifying-this-font)
+* [还要做的事 / TODO List](还要做的事--TODO-List)
+* [重要的事情 / Important Notes](重要的事情--Important-Notes)
 
 ---
 
@@ -51,7 +57,9 @@ For Windows:
 Double-click the font file and click "Install" to install it for the current user.
 
 > 只需在Release页面下载`.ttf`文件即可。
+> 
 > 在Windows环境下，双击该字体文件，并点击“安装”即可安装该字体。
+> 
 > 请注意，这种安装方式为当前用户安装。
 
 ---
@@ -76,6 +84,7 @@ To generate the font:
 If an `Error detected` dialog appears, click `Generate` anyway.
 
 > 使用菜单栏的`File（文件）`→`Generate Fonts（生成字体）`，然后选择位置和名称并点击`Generate（生成）`生成这个字体。
+> 
 > 若出现`Error detected（检测到问题）`对话框，直接点击`Generate（生成）`即可。
 
 ---
@@ -84,10 +93,12 @@ If an `Error detected` dialog appears, click `Generate` anyway.
 
 - [ ] 多加点字母和符号 / Add more characters
 > (At minimum: Cyrillic and Greek characters. Even if personally disliked, Cyrillic must be used for Mongolian text in this font.)
+> 
 > (至少加入西里尔文字母和希腊字母。即使个人再讨厌，用这种字体写蒙文也只能用西里尔蒙文。)
 
 - [ ] 字距微调？ / Font kerning?
 > (Should I preserve Minecraft's original spacing or optimize for display/print?)
+> 
 > (是保持Minecraft中的效果，还是实现显示和印刷效果？)
 
 
@@ -107,4 +118,5 @@ So this font is licensed under:
 
 > [!CAUTION]
 > I cannot be held responsible if Microsoft or Mojang takes legal action due to improper usage.
+> 
 > 如果因错误使用而被微软或者Mojang告了那我可没法负责。
