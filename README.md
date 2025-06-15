@@ -24,7 +24,7 @@ Sometimes I want to use this charming pixelated font from Minecraft, and creatin
 
 **Love Minecraft Forever**
 
-![img]()
+![Overview](ImagesUsedByReadme/Fontforge screenshot.png)
 
 This font is based on the typeface from Minecraft 1.20. All characters were manually drawn using [FontForge](https://fontforge.org/en-US/) without any other tools. Feel free to use it with confidence.
 
@@ -32,13 +32,15 @@ This font is based on the typeface from Minecraft 1.20. All characters were manu
 
 I've deliberately calibrated the font size for compatibility with other fonts, such as the [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font).
 
+![Red Sofa by Lurk](ImagesUsedByReadme/Red Sofa by Lurk.png)
+
 > 我刻意安排了字体大小，使它能配合别的字体使用，比如配合[方舟像素字体](https://github.com/TakWolf/ark-pixel-font)使用。
 
 (The screenshot still shows the Fusion version)
 
 >（图片里用的还是那个缝合版）
 
-![img]()
+![Use with Ark](ImagesUsedByReadme/Use with Ark Pixel Font.png)
 
 ---
 
