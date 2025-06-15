@@ -10,11 +10,11 @@ A fan-made font based on Minecraft typeface
 
 ## 目录 / Table of Contents
 
-* [概述 / Overview](概述--Overview)
-* [使用本字体 / Font usage](使用本字体--Font-usage)
-* [修改本字体 / Modifying this font](修改本字体--Modifying-this-font)
-* [还要做的事 / TODO List](还要做的事--TODO-List)
-* [重要的事情 / Important Notes](重要的事情--Important-Notes)
+* [概述 / Overview](README.md#概述--Overview)
+* [使用本字体 / Font usage](README.md#使用本字体--Font-usage)
+* [修改本字体 / Modifying this font](README.md#修改本字体--Modifying-this-font)
+* [还要做的事 / TODO List](README.md#还要做的事--TODO-List)
+* [重要的事情 / Important Notes](README.md#重要的事情--Important-Notes)
 
 ---
 
