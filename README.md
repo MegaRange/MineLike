@@ -53,7 +53,9 @@ I've deliberately calibrated the font size for compatibility with other fonts, s
 ## 使用本字体 / Font usage
 
 Simply download the `.ttf` file from the Releases page.
+
 For Windows:  
+
 Double-click the font file and click "Install" to install it for the current user.
 
 > 只需在Release页面下载`.ttf`文件即可。
